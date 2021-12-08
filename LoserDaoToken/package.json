@@ -1,0 +1,21 @@
+{
+  "name": "UyangStone",
+  "version": "1.0.0",
+  "description": "UyangStone token",
+  "main": "index.js",
+  "repository": "git@https://github.com/lidazui5270/UyangStone.git",
+  "author": "lidazui",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "dotenv": "^6.1.0",
+    "ethereumjs-wallet": "^0.6.2",
+    "truffle-plugin-verify": "^0.5.18"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "truffle-contract-size": "^2.0.1",
+    "truffle-wallet-provider": "^0.0.5"
+  }
+}
