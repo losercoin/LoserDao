@@ -1,1 +1,2 @@
 # LoserDao
+## LoserDao Contract
